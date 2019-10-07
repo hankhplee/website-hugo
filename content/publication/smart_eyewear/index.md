@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Does Who Matter? Studying the Impact of Relationship Characteristics on Receptivity to Mobile IM Messages"
-authors: [<b>Hao-Ping Lee</b>,Kuan-Yin Chen, Chih-Heng Lin, Chia-Yu Chen, Yu-Lin Chung, Yung-Ju Chang, Chien-Ru Sun]
-date: 2019-05-01T01:50:22+08:00
-doi: "10.1145/3290605.3300756"
+title: "Ubiquitous smart eyewear interactions using implicit sensing and unobtrusive information output"
+authors: []
+date: 2019-10-03T11:44:29+08:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-28T01:50:22+08:00
+publishDate: 2019-10-03T11:44:29+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Special Interest Group on Computer-Human Interaction (<b>CHI</b>)"
+publication: ""
 publication_short: ""
 
-abstract: "This study examines the characteristics of mobile instant-messaging users' relationships with their social contacts and the effects of both relationship and interruption context on four measures of receptivity: Attentiveness, Responsiveness, Interruptibility, and Opportuneness. Overall, interruption context overshadows relationship characteristics as predictors of all four of these facets of receptivity; this overshadowing was most acute for Interruptibility and Opportuneness, but existed for all factors. In addition, while Mobile Maintenance Expectation and Activity Engagement were negatively correlated with all receptivity measures, each such measure had its own set of predictors, highlighting the conceptual differences among the measures. Finally, delving more deeply into potential relationship effects, we found that a single, simple closeness question was as effective at predicting receptivity as the 12-item Unidimensional Relationship Closeness Scale."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dl.acm.org/citation.cfm?doid=3290605.3300756
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
