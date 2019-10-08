@@ -86,7 +86,7 @@ privacy_pack = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hankhplee@gmail.com"
-phone = ""
+phone = "(+886)918-538-083"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -115,6 +115,10 @@ phone = ""
 #   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
 #   ]
+contact_links = [
+  {icon = "linkedin", icon_pack = "fab", name = "Hao-Ping (Hank) Lee", link = "https://www.linkedin.com/in/hao-ping-lee-683a56183/"},
+  {icon = "facebook", icon_pack = "fab", name = "Hank Lee", link = "https://www.facebook.com/hank.lee.376"}
+  ]
 
 ############################
 ## Social
