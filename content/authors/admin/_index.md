@@ -66,9 +66,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-<!-- user_groups:
+user_groups:
 - Researchers
-- Visitors -->
+- Visitors
 ---
 
-Hao-Ping (Hank) is a Research Assistant supervised by [Prof. Yung-Ju (Stanley) Chang](https://www.armuro.info/) at National Chiao Tung University, where he also earned his bachelor degree in computer science in 2018. He was a Visiting Researcher at the School of Computing and Information Systems at the University of Melbourne under the supervision of [Dr. Tilman Dingler](http://tilmanification.com/). His research interests lie at the intersection of Human Computer Interaction (HCI) and Ubiquitous Computing (Ubicomp), more specifically in developing technologies that support people’s attention and communication in ubiquitous environments.
+My name is Hank, and my Chinese name is Hao-Ping. I'm a Research Assistant supervised by [Prof. Yung-Ju (Stanley) Chang](https://www.armuro.info/) at National Chiao Tung University, where I also earned my bachelor degree in computer science in 2018. I was a Visiting Researcher at the School of Computing and Information Systems at the University of Melbourne under the supervision of [Dr. Tilman Dingler](http://tilmanification.com/). My research interests lie at the intersection of Human Computer Interaction (HCI) and Ubiquitous Computing (Ubicomp), while specifically, they lie in:
+<ol>
+  <li> Investigating user behavior and interaction with technologies in ubiquitous computing environments.</li>
+  <li> Building technologies that support users to manage attention and facilitate communication.</li>
+</ol>
