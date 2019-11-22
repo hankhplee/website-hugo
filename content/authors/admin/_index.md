@@ -23,6 +23,7 @@ bio: My research interests lie in Ubiquitous Computing (Ubicomp), more specifica
 interests:
 - Human Computer Interaction
 - Ubiquitous Computing
+- Computer Mediated Communication
 
 education:
   courses:
@@ -38,15 +39,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:hankhplee@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GZzc81YAAAAJ&hl=zh-TW
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -59,7 +57,11 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/open?id=1279aszBe3TWrqe70x3wz9E8KJ_4Y6UPE
+  link: https://drive.google.com/file/d/1c9qbx66EBurllR8UqoI_dltQq3OvXPv3/view?usp=sharing
+
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:hankhplee@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,6 +76,6 @@ user_groups:
 My name is Hank, and my Chinese name is Hao-Ping Lee (李浩平). I'm a Research Assistant supervised by [Prof. Yung-Ju (Stanley) Chang](https://www.armuro.info/) at National Chiao Tung University, where I also earned my bachelor degree in computer science in 2018. I was a Visiting Researcher at the School of Computing and Information Systems at the University of Melbourne under the supervision of [Dr. Tilman Dingler](http://tilmanification.com/). My research experiences lie at the intersection of Human Computer Interaction (HCI) and Ubiquitous Computing (Ubicomp), while specifically in investigating on:
 <ol>
   <li> social and contextual factors that affect instant messaging (IM) on mobile.</li>
-  <li> using prior IM communication pattern to model users’ IM behaviors.</li>
-  <li> novel interactions for ubiquitous technologies.</li>
+  <li> the use of IM logs to model users’ IM communication practices.</li>
+  <li> novel interfaces and intelligent systems for mobile notifications.</li>
 </ol>
