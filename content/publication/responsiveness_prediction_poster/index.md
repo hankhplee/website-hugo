@@ -16,7 +16,7 @@ publishDate: 2019-10-08T10:53:16+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Poster at International Conference on Human-Computer Interaction with Mobile Devices and Services (<b>MobileHCI EA</b>)"
+publication: "Poster at the International Conference on Human-Computer Interaction with Mobile Devices and Services (<b>MobileHCI '19 EA</b>)"
 publication_short: ""
 
 abstract: "History of conversations through instant messaging (IM) contains abundant information about the communication patterns of the dyad, including conversation partners' mutual responsiveness to messages. We have, however, not seen many examinations of using such information in modeling mobile users’ responsiveness in IM communication. In this paper, we present an in-the-wild study, in which we leverage participants’ IM messaging logs to build models predicting their general responsiveness. Our models based on data from 33 IM user achieved an accuracy of up to 71% (AUROC). In particular, we show that 90-day IM-communication patterns, in general, outperformed their 14-day equivalent in our prediction models, indicating better coherence between long-term IM patterns with their general communication experience."

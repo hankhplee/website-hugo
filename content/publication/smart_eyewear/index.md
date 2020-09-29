@@ -16,7 +16,7 @@ publishDate: 2019-10-03T11:44:29+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on International Conference on Ubiquitous Computing (<b>Ubicomp EA</b>)"
+publication: "Workshop at the ACM International Conference on Pervasive and Ubiquitous Computing (<b>UbiComp '19 EA</b>)"
 publication_short: ""
 
 abstract: "Premature technology, privacy, intrusiveness, power consumption, and user habits are all factors potentially contributing to the lack of social acceptance of smart glasses. After investigating the recent development of commercial smart eyewear and its related research, we propose a design space for ubiquitous smart eyewear interactions while maximising interactivity with minimal obtrusiveness. We focus on implicit and explicit interactions enabled by the combination of miniature sensor technology, low-resolution display and simplistic interaction modalities. Additionally, we are presenting example applications outlining future development directions. Finally, we aim at raising the awareness of designing for ubiquitous eyewear with implicit sensing and unobtrusive information output abilities."

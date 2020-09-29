@@ -3,7 +3,7 @@
 
 title: "Connecting IM pattern and selective perceived responsiveness to relationship: a cluster-based approach"
 authors: [<b>Hao-Ping Lee</b>,Kuan-Yin Chen, Chih-Heng Lin,Yung-Ju Chang]
-date: 2019-09-09T11:17:56+08:00
+date: 2019-11-09T11:17:56+08:00
 doi: "10.1145/3341162.3344841"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2019-10-03T11:17:56+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop at International Conference on Ubiquitous Computing (<b>Ubicomp EA</b>)"
+publication: "Workshop at the ACM International Conference on Pervasive and Ubiquitous Computing (<b>UbiComp '19 EA</b>)"
 publication_short: ""
 
 abstract: "As people utilize instant messaging (IM) to communicate with people of various relationships, they pay different amounts of attention to and have different communication practices with them of different relationships. However, we haven't seen a close investigation of how users' IM communication patterns relate to different groups of IM contacts. We collected IM logs of 547 sender-recipient pairs from 33 smartphone users over the course of 4 weeks, and used k-mean clustering to identify 6 clusters of these users' IM communication patterns. We illustrate the characteristics of the IM patterns of these distinct clusters as well as how the patterns relate to the relationship between the senders and the recipients within these clusters respectively."

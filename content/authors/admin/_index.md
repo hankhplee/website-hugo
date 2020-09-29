@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: HCI Reseacher
+role: HCI Researcher
 
 # Organizations/Affiliations
 organizations:
