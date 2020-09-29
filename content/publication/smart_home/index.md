@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exploring the Design Space of User-System Communication for Smart-home Routine Assistants."
+title: "Exploring the Design Space of User-System Communication for Smart-home Routine Assistants"
 authors: [Yi-Shyuan Chiang, Ruei-Che Chang, Yi-Lin Chuang, Shih-Ya Chou, <b>Hao-Ping Lee</b>, I-Ju Lin, Jian Hua Jiang Chen, Yung-Ju Chang]
 date: 2020-05-12T17:56:22+08:00
 doi: "10.1145/3313831.3376501"
